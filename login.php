@@ -1,8 +1,8 @@
 <?php
 	
 	// credenciales predeterminadas
-	const USERNAME = 'admin';
-	const PASSWORD = 'admin123';
+	const USERNAME = 'jcorona';
+	const PASSWORD = '4886';
 
 	$error = false;
 
